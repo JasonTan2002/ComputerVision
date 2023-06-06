@@ -1,6 +1,6 @@
 # Image de-hazing and fog removal using DCP 
 
-This is a simple image retrieval project from foggy and hazy images by using the methods of Dark Channel Prior and Colour Attenuation Prior. 
+This is a simple image retrieval project from foggy and hazy images by using the methods of Dark Channel Prior. 
 
 ## Directions for Setting up Environment-
 
