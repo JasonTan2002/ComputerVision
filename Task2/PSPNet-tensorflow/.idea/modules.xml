@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DeepLabV3Plus-Pytorch-master.iml" filepath="$PROJECT_DIR$/.idea/DeepLabV3Plus-Pytorch-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PSPNet-tensorflow-master.iml" filepath="$PROJECT_DIR$/.idea/PSPNet-tensorflow-master.iml" />
     </modules>
   </component>
 </project>
